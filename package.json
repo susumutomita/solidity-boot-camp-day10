@@ -12,7 +12,7 @@
   },
   "author": "Susumu Tomita <your.email@example.com> (http://yourwebsite.com/)",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "@openzeppelin/contracts": "^5.0.2"
   }
 }
